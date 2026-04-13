@@ -1,0 +1,313 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2026.3.5)  13 MAR 2026 10:52
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/home/elis/Projects/School/ai201/spam/latex_code/PA2_Juan_dela_Cruz.tex
+(/home/elis/Projects/School/ai201/spam/latex_code/PA2_Juan_dela_Cruz.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-01-21> (./acm_proc_article-sp.cls (/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
+Package: epsfig 2017/06/25 v1.7b (e)psfig emulation (SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen138
+\Gin@req@width=\dimen139
+)
+\epsfxsize=\dimen140
+\epsfysize=\dimen141
+) (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks17
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip47
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen142
+)) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen143
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count185
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count186
+\leftroot@=\count187
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count188
+\DOTSCASE@=\count189
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box50
+\strutbox@=\box51
+\big@size=\dimen144
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count190
+\c@MaxMatrixCols=\count191
+\dotsspace@=\muskip16
+\c@parentequation=\count192
+\dspbrk@lvl=\count193
+\tag@help=\toks19
+\row@=\count194
+\column@=\count195
+\maxfields@=\count196
+\andhelp@=\toks20
+\eqnshift@=\dimen145
+\alignsep@=\dimen146
+\tagshift@=\dimen147
+\tagwidth@=\dimen148
+\totwidth@=\dimen149
+\lineht@=\dimen150
+\@envbody=\toks21
+\multlinegap=\skip48
+\multlinetaggap=\skip49
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+)
+Document Class 'acm_proc_article-sp' <24th. Feb. '00>. Modified by G.K.M. Tobin
+Based in part upon document Style `acmconf' <22 May 89>. Hacked 4/91 by
+shivers@cs.cmu.edu, 4/93 by theobald@cs.mcgill.ca
+Excerpts were taken from (Journal Style) 'esub2acm.cls'.
+****** Bugs/comments/suggestions to Gerry Murray -- murray@hq.acm.org ******
+\footheight=\dimen151
+\@maxsep=\dimen152
+\@dblmaxsep=\dimen153
+\aucount=\count197
+\originalaucount=\count198
+\auwidth=\dimen154
+\auskip=\dimen155
+\auskipcount=\count199
+\auskip=\dimen156
+\allauboxes=\dimen157
+\addauthors=\toks23
+\addauflag=\count266
+\subtitletext=\toks24
+\savesection=\count267
+\sectioncntr=\count268
+\c@figure=\count269
+\c@table=\count270
+\titleboxnotes=\toks25
+\titleboxnoteflag=\count271
+Document Class: acm_proc_article-sp 2000/02/24 - V2.01SP - based on esub2acm.sty <23 April 96>
+(/usr/share/texlive/texmf-dist/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+)
+\@acmtitlebox=\box52
+\titlenotecount=\count272
+\tntoks=\toks26
+\tntokstwo=\toks27
+\tntoksthree=\toks28
+\tntoksfour=\toks29
+\tntoksfive=\toks30
+\catcount=\count273
+\conf=\toks31
+\confinfo=\toks32
+\c@part=\count274
+\c@section=\count275
+\c@subsection=\count276
+\c@subsubsection=\count277
+\c@paragraph=\count278
+
+Using 'Abbrev' bibliography style
+\bibindent=\dimen158
+\colcntr=\count279
+\savebox=\box53
+\copyrtyr=\toks33
+\acmcopyr=\toks34
+\boilerplate=\toks35
+\copyrightetc=\toks36
+) (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+) (/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen159
+\lightrulewidth=\dimen160
+\cmidrulewidth=\dimen161
+\belowrulesep=\dimen162
+\belowbottomsep=\dimen163
+\aboverulesep=\dimen164
+\abovetopsep=\dimen165
+\cmidrulesep=\dimen166
+\cmidrulekern=\dimen167
+\defaultaddspace=\dimen168
+\@cmidla=\count280
+\@cmidlb=\count281
+\@aboverulesep=\dimen169
+\@belowrulesep=\dimen170
+\@thisruleclass=\count282
+\@lastruleclass=\count283
+\@thisrulewidth=\dimen171
+) (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip50
+\multirow@cntb=\count284
+\multirow@dima=\skip51
+\bigstrutjot=\dimen172
+) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count285
+\l__pdf_internal_box=\box54
+) (./PA2_Juan_dela_Cruz.aux)
+\openout1 = `PA2_Juan_dela_Cruz.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+ (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count286
+\scratchdimen=\dimen173
+\scratchbox=\box55
+\nofMPsegments=\count287
+\nofMParguments=\count288
+\everyMPshowfont=\toks37
+\MPscratchCnt=\count289
+\MPscratchDim=\dimen174
+\MPnumerator=\count290
+\makeMPintoPDFobject=\count291
+\everyMPtoPDFconversion=\toks38
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+LaTeX Font Info:    Trying to load font information for U+msa on input line 26.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 26.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 26.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+
+]
+<results/precision_recall_tradeoff.png, id=18, 506.8536pt x 394.8351pt>
+File: results/precision_recall_tradeoff.png Graphic file (type png)
+<use results/precision_recall_tradeoff.png>
+Package pdftex.def Info: results/precision_recall_tradeoff.png  used on input line 144.
+(pdftex.def)             Requested size: 239.40308pt x 186.4943pt.
+ [2]
+<results/lambda_vs_f1.png, id=25, 513.3579pt x 339.1872pt>
+File: results/lambda_vs_f1.png Graphic file (type png)
+<use results/lambda_vs_f1.png>
+Package pdftex.def Info: results/lambda_vs_f1.png  used on input line 153.
+(pdftex.def)             Requested size: 239.40308pt x 158.18105pt.
+<results/roc_curve.png, id=26, 507.5763pt x 394.5942pt>
+File: results/roc_curve.png Graphic file (type png)
+<use results/roc_curve.png>
+Package pdftex.def Info: results/roc_curve.png  used on input line 162.
+(pdftex.def)             Requested size: 239.40308pt x 186.11557pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<results/confusion_matrix_lambda_4_0.png, id=27, 414.5889pt x 355.3275pt>
+File: results/confusion_matrix_lambda_4_0.png Graphic file (type png)
+<use results/confusion_matrix_lambda_4_0.png>
+Package pdftex.def Info: results/confusion_matrix_lambda_4_0.png  used on input line 194.
+(pdftex.def)             Requested size: 239.40308pt x 205.18463pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[3 <./results/precision_recall_tradeoff.png> <./results/lambda_vs_f1.png> <./results/roc_curve.png>]
+<results/mi_precision_recall_vs_n.png, id=34, 499.6266pt x 338.9463pt>
+File: results/mi_precision_recall_vs_n.png Graphic file (type png)
+<use results/mi_precision_recall_vs_n.png>
+Package pdftex.def Info: results/mi_precision_recall_vs_n.png  used on input line 221.
+(pdftex.def)             Requested size: 239.40308pt x 162.40791pt.
+<results/time_complexity_plot.png, id=35, 499.6266pt x 338.9463pt>
+File: results/time_complexity_plot.png Graphic file (type png)
+<use results/time_complexity_plot.png>
+Package pdftex.def Info: results/time_complexity_plot.png  used on input line 230.
+(pdftex.def)             Requested size: 239.40308pt x 162.40791pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<results/space_complexity_plot.png, id=36, 509.0217pt x 338.9463pt>
+File: results/space_complexity_plot.png Graphic file (type png)
+<use results/space_complexity_plot.png>
+Package pdftex.def Info: results/space_complexity_plot.png  used on input line 237.
+(pdftex.def)             Requested size: 239.40308pt x 159.41339pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[4 <./results/confusion_matrix_lambda_4_0.png> <./results/mi_precision_recall_vs_n.png> <./results/time_complexity_plot.png> <./results/space_complexity_plot.png>] [5] [6
+
+] (./PA2_Juan_dela_Cruz.aux) ) 
+Here is how much of TeX's memory you used:
+ 2949 strings out of 480247
+ 44581 string characters out of 5896152
+ 342355 words of memory out of 5000000
+ 20853 multiletter control sequences out of 15000+600000
+ 488124 words of font info for 69 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 85i,11n,90p,1006b,245s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb>
+Output written on PA2_Juan_dela_Cruz.pdf (6 pages, 1070588 bytes).
+PDF statistics:
+ 114 PDF objects out of 1000 (max. 8388607)
+ 61 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+

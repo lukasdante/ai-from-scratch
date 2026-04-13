@@ -1,0 +1,6 @@
+mini_batch,tanh-tanh-logistic_time,leaky-leaky-logistic_time
+8,0.3497,0.3461
+16,0.2295,0.2202
+32,0.1527,0.1392
+64,0.1227,0.1016
+128,0.1764,0.1315
